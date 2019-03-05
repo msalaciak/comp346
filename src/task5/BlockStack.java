@@ -2,6 +2,7 @@ package task5;
 
 import common.StackException;
 
+
 /**
  * Class BlockStack
  * Implements character block stack and operations upon it.
